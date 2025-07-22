@@ -1,0 +1,5 @@
+let x = 10;
+let y = 20;
+x + y;
+fn multiply(x,y){ x * y;};
+multiply(8,9);
